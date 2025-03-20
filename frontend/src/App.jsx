@@ -1,11 +1,13 @@
-import './styles/App.scss';
+import NavigationalBar from './components/NavigationalBar';
+
+import './styles/styles.scss';
 
 function App() {
 
 
   return (
     <>
-      
+      <NavigationalBar/>
     </>
   )
 }
