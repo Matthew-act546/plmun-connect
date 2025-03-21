@@ -26,11 +26,11 @@ export default function Home() {
           <Col className='col-6 col-12 col-md-6 d-flex align-items-center justify-content-center'>
             <div className='d-inline-block'>
             <img
-                  alt="PLMun Building"
-                  src={heroImage}
-                  width="380px"
-                  height="405px"
-                  className="image-hero"
+                alt="PLMun Building"
+                src={heroImage}
+                width="380px"
+                height="405px"
+                className="image-hero"
               />
             </div>
           </Col>
