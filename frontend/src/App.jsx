@@ -1,4 +1,5 @@
 import About from './components/About';
+import Features from './components/Features';
 import Home from './components/home';
 import NavigationalBar from './components/NavigationalBar';
 import './styles/styles.scss';
@@ -11,6 +12,7 @@ function App() {
       <NavigationalBar/>
       <Home />
       <About />
+      <Features />
     </>
   )
 }
