@@ -1,6 +1,6 @@
 import About from './components/About';
 import Features from './components/Features';
-import Home from './components/home';
+import Home from './components/Home';
 import NavigationalBar from './components/NavigationalBar';
 import './styles/styles.scss';
 
