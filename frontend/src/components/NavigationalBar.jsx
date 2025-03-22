@@ -24,7 +24,7 @@ export default function NavigationalBar() {
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="ms-auto">
               <Nav.Link href="#home" className='text-white'>Home</Nav.Link>
-              <Nav.Link href="#link" className='text-white'>About</Nav.Link>
+              <Nav.Link href="#about" className='text-white'>About</Nav.Link>
               <Nav.Link href="#features" className='text-white'>Features</Nav.Link>
             </Nav>
             <Button variant="outline-warning" className='ms-3'>Register Now!</Button>

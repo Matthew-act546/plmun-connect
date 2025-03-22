@@ -8,7 +8,7 @@ export default function Home() {
 
   return (
     <>
-    <Container>
+    <Container id='home'>
       <Row>
           <Col md={6} xs={12} sm={6} className='col-6 col-12 d-flex align-items-center' style={{minHeight: '100vh'}}>
             <div>

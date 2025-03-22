@@ -14,7 +14,7 @@ import { faEnvelope  } from "@fortawesome/free-solid-svg-icons";
 export default function About() {
   return (
     <>
-      <div style={{minHeight: '100vh'}}>
+      <div style={{minHeight: '100vh'}} id='about'>
         <h1 className="text-center mb-4">About us</h1>
         <Container>
           <Row>

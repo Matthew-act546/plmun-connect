@@ -8,7 +8,7 @@ import attendees from '../assets/images/attendees.png';
 export default function Features() {
   return (
     <>
-    <Container style={{minHeight: '100vh'}}>
+    <Container id="features" style={{minHeight: '100vh'}}>
       <h1 className="text-center mb-4">Features</h1>
       <Row> 
         <Col md={6}>
