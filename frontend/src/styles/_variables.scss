@@ -1,4 +1,11 @@
 $primary: #006B3C;
 $secondary: #FDCC0D;
 
-// @import "../../node_modules/bootstrap/scss/bootstrap.scss";
+.primary-color {
+  color: $primary;
+}
+
+
+.secondary-color {
+  color: $secondary;
+}
